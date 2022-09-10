@@ -1,0 +1,8 @@
+{
+  "domain": "url",
+  "name": "Url",
+  "documentation": "https://www.home-assistant.io/components/file",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": []
+}
